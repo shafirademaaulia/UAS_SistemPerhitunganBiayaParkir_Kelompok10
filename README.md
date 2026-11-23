@@ -1,0 +1,4 @@
+| Nama & NIM | Akun GitHub | Fitur / Bagian Kode yang Dikerjakan | Tautan Pull Request Utama |
+|---|---|---|---|
+| **Shafira Dema Aulia**<br>263140701111066 | @shafirademaulia | **Dokumen laporan**<br>Bab 1<br>1.1 Deskripsi masalah.<br><br>Bab 2<br>2.1 Flowchart alur menu utama.<br>2.2 Keterangan alur flowchart.<br><br>Bab 3<br>3.1 Pemetaan pemenuhan ketentuan proyek.<br>3.2 Tabel kontribusi anggota tim. | [Pull Request #1](https://github.com/.../pull/1) |
+| **Shofa Azzahrah**<br>26314070111017 | @shofaaazzahrah | **Dokumen laporan**<br>Bab 1<br>1.2 Decomposition.<br>1.3 Pattern recognition.<br>1.4 Abstraction.<br>1.5 Algorithmic thinking.<br><br>Bab 3<br>3.3 Screenshot hasil pengujian program. | [Pull Request #2](https://github.com/.../pull/2) |
